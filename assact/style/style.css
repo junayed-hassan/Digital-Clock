@@ -13,7 +13,7 @@ body {
 .digital-clock {
     display: flex;
     font-size: 65px;
-    border-radius: 10px;
+    border-radius: 50%;
     padding: 30px 50px;
     box-shadow: 0 4px 4px pink;
     color: #fff;
